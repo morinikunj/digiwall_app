@@ -1,23 +1,16 @@
-# wallpaper_app
+# Digiwall app
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
-API : 
+Digiwall app is a mobile application that provides users with a diverse selection of high-quality images.
+Users can select, and set these wallpapers as their device's home or lock screen or both background to personalize their user experience.
+<br>
+API : pxel API 
+<br>
 Google Font : Kalam
+<br>
 Add Dependency :
+<br>
 http: ^1.1.0
+<br>
 flutter_wallpaper_manager: ^0.0.4
+<br>
 flutter_cache_manager: ^3.3.1
