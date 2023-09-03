@@ -10,8 +10,8 @@ Google Font : Kalam
 <br>
 Add Dependency :
 <br>
- - http: ^1.1.0
+- http: ^1.1.0
 <br>
- - flutter_wallpaper_manager: ^0.0.4
+- flutter_wallpaper_manager: ^0.0.4
 <br>
- - flutter_cache_manager: ^3.3.1
+- flutter_cache_manager: ^3.3.1
