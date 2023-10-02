@@ -8,7 +8,7 @@ API : pxel API
 <br>
 Google Font : Kalam
 <br>
-Add Dependency :
+Used Dependency :
 <br>
 http: ^1.1.0
 <br>
